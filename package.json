@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "late night chatapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LusHovh/TLT_chatApp.git"
+  },
+  "keywords": [
+    "chat",
+    "application"
+  ],
+  "author": "TLT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LusHovh/TLT_chatApp/issues"
+  },
+  "homepage": "https://github.com/LusHovh/TLT_chatApp#readme"
+}
